@@ -3,6 +3,6 @@
     <color name="colorPrimary">#333333</color>
     <color name="colorPrimaryDark">#333333</color>
     <color name="colorAccent">#FF0000</color>
-    <color name="list1Color">#CCCCCC</color>
-    <color name="list2Color">#FFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
 </resources>

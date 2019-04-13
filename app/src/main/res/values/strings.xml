@@ -1,6 +1,4 @@
-<resources>app_name
-    <string name="app_name">Лаб.раб.1</string>
-    <string name="splash">splash</string>
-    <string name="list_pic">list_pic</string>
-    <string name="pic">https://pp.userapi.com/c824200/v824200784/1e7b3/e0gAgUqzqZg.jpg</string>
+<resources>
+    <string name="app_name">Лаб.раб.2</string>
+    <string name="counter" />
 </resources>
